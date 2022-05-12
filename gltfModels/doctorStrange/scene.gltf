@@ -1,0 +1,820 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 13030,
+      "max": [
+        36.2818717956543,
+        14.506314277648926,
+        49.28001403808594
+      ],
+      "min": [
+        -37.331398010253906,
+        -0.0013584670377895236,
+        -49.279998779296875
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 156360,
+      "componentType": 5126,
+      "count": 13030,
+      "max": [
+        0.9999802112579346,
+        0.9999983906745911,
+        1.0
+      ],
+      "min": [
+        -0.9997907280921936,
+        -1.0,
+        -0.9999932646751404
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 13032,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 312720,
+      "componentType": 5126,
+      "count": 16698,
+      "max": [
+        3.976745367050171,
+        19.615833282470703,
+        26.99751091003418
+      ],
+      "min": [
+        -15.165932655334473,
+        -4.137765884399414,
+        -23.002559661865234
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 513096,
+      "componentType": 5126,
+      "count": 16698,
+      "max": [
+        1.0,
+        0.9998340606689453,
+        1.0
+      ],
+      "min": [
+        -0.9999946355819702,
+        -0.9999927878379822,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 52128,
+      "componentType": 5125,
+      "count": 16698,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 713472,
+      "componentType": 5126,
+      "count": 65534,
+      "max": [
+        24.7970027923584,
+        1.8173779249191284,
+        24.955217361450195
+      ],
+      "min": [
+        -24.79098892211914,
+        -23.75016212463379,
+        -24.955217361450195
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1499880,
+      "componentType": 5126,
+      "count": 65534,
+      "max": [
+        0.9999993443489075,
+        1.0,
+        0.9999959468841553
+      ],
+      "min": [
+        -0.9999993443489075,
+        -1.0,
+        -0.9999950528144836
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 118920,
+      "componentType": 5125,
+      "count": 65598,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2286288,
+      "componentType": 5126,
+      "count": 2586,
+      "max": [
+        18.442720413208008,
+        -8.002554893493652,
+        5.382882118225098
+      ],
+      "min": [
+        -16.248769760131836,
+        -16.499719619750977,
+        -24.789270401000977
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2317320,
+      "componentType": 5126,
+      "count": 2586,
+      "max": [
+        0.9622263312339783,
+        0.9984719157218933,
+        0.9973796010017395
+      ],
+      "min": [
+        -0.9900210499763489,
+        -0.9265758991241455,
+        -0.9784151911735535
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 381312,
+      "componentType": 5125,
+      "count": 2586,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2348352,
+      "componentType": 5126,
+      "count": 28090,
+      "max": [
+        48.25276184082031,
+        6.301587104797363,
+        50.41169357299805
+      ],
+      "min": [
+        -39.76142883300781,
+        -16.00737762451172,
+        -50.556488037109375
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2685432,
+      "componentType": 5126,
+      "count": 28090,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 391656,
+      "componentType": 5125,
+      "count": 28212,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3022512,
+      "componentType": 5126,
+      "count": 11886,
+      "max": [
+        15.101725578308105,
+        19.61442756652832,
+        23.997478485107422
+      ],
+      "min": [
+        -2.538602590560913,
+        -2.6414661407470703,
+        -20.002613067626953
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3165144,
+      "componentType": 5126,
+      "count": 11886,
+      "max": [
+        1.0,
+        0.9999538660049438,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -0.9999456405639648,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 504504,
+      "componentType": 5125,
+      "count": 11904,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3307776,
+      "componentType": 5126,
+      "count": 8151,
+      "max": [
+        27.120750427246094,
+        12.879328727722168,
+        25.51154136657715
+      ],
+      "min": [
+        -32.496150970458984,
+        5.086425304412842,
+        -32.500083923339844
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3405588,
+      "componentType": 5126,
+      "count": 8151,
+      "max": [
+        0.9964975714683533,
+        0.9992411136627197,
+        0.9995223879814148
+      ],
+      "min": [
+        -0.999925971031189,
+        -0.9996129274368286,
+        -0.9993632435798645
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 552120,
+      "componentType": 5125,
+      "count": 8151,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3503400,
+      "componentType": 5126,
+      "count": 8361,
+      "max": [
+        32.5032958984375,
+        17.171857833862305,
+        32.499061584472656
+      ],
+      "min": [
+        -30.96861457824707,
+        10.317588806152344,
+        -30.461915969848633
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3603732,
+      "componentType": 5126,
+      "count": 8361,
+      "max": [
+        0.9998936653137207,
+        0.9999461770057678,
+        0.9989019632339478
+      ],
+      "min": [
+        -0.9985724091529846,
+        -0.9995896816253662,
+        -0.999627947807312
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 584724,
+      "componentType": 5125,
+      "count": 8361,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3704064,
+      "componentType": 5126,
+      "count": 1440,
+      "max": [
+        2.070826768875122,
+        8.23282241821289,
+        0.19510160386562347
+      ],
+      "min": [
+        -2.3600664138793945,
+        -0.5227214097976685,
+        -0.2268490344285965
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3721344,
+      "componentType": 5126,
+      "count": 1440,
+      "max": [
+        0.9658499360084534,
+        0.9639987349510193,
+        0.9657877087593079
+      ],
+      "min": [
+        -0.9657943844795227,
+        -0.963996171951294,
+        -0.9657877683639526
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1440,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        8.881784197001252e-16,
+        2.220446049250313e-16
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 618168,
+      "componentType": 5125,
+      "count": 2160,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Alexei Ostapenko (https://sketchfab.com/alexanders823)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/eye-of-agamotto-bd60130d0e8445c29b286c469cd5a890",
+      "title": "Eye of Agamotto"
+    },
+    "generator": "Sketchfab-12.68.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 626808,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 11520,
+      "byteOffset": 626808,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3738624,
+      "byteOffset": 638328,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 4376952,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "name": "String__0",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Gold",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.7999999999999999,
+          0.41685999999999995,
+          0.05221759999999994,
+          1.0
+        ],
+        "roughnessFactor": 0.0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Eye of Agamotto_Gold_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0
+          },
+          "indices": 2,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Bottom Eyelid_Gold_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 4,
+            "POSITION": 3
+          },
+          "indices": 5,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Inner Eye_Gold_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 7,
+            "POSITION": 6
+          },
+          "indices": 8,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Inner Eye_Gold_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 10,
+            "POSITION": 9
+          },
+          "indices": 11,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Rear Case_Gold_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 13,
+            "POSITION": 12
+          },
+          "indices": 14,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Top Eye Lid_Gold_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 16,
+            "POSITION": 15
+          },
+          "indices": 17,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Spinning Parts B_Gold_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 19,
+            "POSITION": 18
+          },
+          "indices": 20,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Spinning Parts A_Gold_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 22,
+            "POSITION": 21
+          },
+          "indices": 23,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "String__0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 25,
+            "POSITION": 24,
+            "TEXCOORD_0": 26
+          },
+          "indices": 27,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "c8685068964e4fd39750de1083389ba6.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "Object_2"
+    },
+    {
+      "children": [
+        4
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        5,
+        6,
+        8,
+        11,
+        13,
+        15,
+        17,
+        19
+      ],
+      "name": "Eye of Agamotto",
+      "rotation": [
+        0.5000000596046448,
+        0.49999991059303284,
+        0.4999999403953552,
+        0.5000001192092896
+      ],
+      "scale": [
+        100.0,
+        100.0,
+        100.0
+      ]
+    },
+    {
+      "mesh": 0,
+      "name": "Eye of Agamotto_Gold_0"
+    },
+    {
+      "children": [
+        7
+      ],
+      "name": "Bottom Eyelid",
+      "rotation": [
+        6.617444900424222e-24,
+        -3.70436522426176e-23,
+        0.0,
+        1.0
+      ],
+      "translation": [
+        0.03054124489426613,
+        -11.091409683227539,
+        -1.9974761009216309
+      ]
+    },
+    {
+      "mesh": 1,
+      "name": "Bottom Eyelid_Gold_0"
+    },
+    {
+      "children": [
+        9,
+        10
+      ],
+      "name": "Inner Eye",
+      "rotation": [
+        6.617444900424222e-24,
+        -3.70436522426176e-23,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "mesh": 2,
+      "name": "Inner Eye_Gold_0"
+    },
+    {
+      "mesh": 3,
+      "name": "Inner Eye_Gold_0"
+    },
+    {
+      "children": [
+        12
+      ],
+      "name": "Rear Case",
+      "rotation": [
+        6.617444900424222e-24,
+        -3.70436522426176e-23,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "mesh": 4,
+      "name": "Rear Case_Gold_0"
+    },
+    {
+      "children": [
+        14
+      ],
+      "name": "Top Eye Lid",
+      "rotation": [
+        6.617444900424222e-24,
+        -3.70436522426176e-23,
+        0.0,
+        1.0
+      ],
+      "translation": [
+        0.03054124489426613,
+        -11.091409683227539,
+        -1.9974761009216309
+      ]
+    },
+    {
+      "mesh": 5,
+      "name": "Top Eye Lid_Gold_0"
+    },
+    {
+      "children": [
+        16
+      ],
+      "name": "Spinning Parts B",
+      "rotation": [
+        6.617444900424222e-24,
+        -3.70436522426176e-23,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "mesh": 6,
+      "name": "Spinning Parts B_Gold_0"
+    },
+    {
+      "children": [
+        18
+      ],
+      "name": "Spinning Parts A",
+      "rotation": [
+        6.617444900424222e-24,
+        -3.70436522426176e-23,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "mesh": 7,
+      "name": "Spinning Parts A_Gold_0"
+    },
+    {
+      "children": [
+        20
+      ],
+      "name": "String",
+      "rotation": [
+        -0.5000001192092896,
+        -0.49999988079071045,
+        -0.49999991059303284,
+        0.5000001192092896
+      ],
+      "scale": [
+        17.086759567260742,
+        17.086759567260742,
+        17.086759567260742
+      ],
+      "translation": [
+        50.991634368896484,
+        -5.66456413269043,
+        -1.6502326616318896e-05
+      ]
+    },
+    {
+      "mesh": 8,
+      "name": "String__0"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
